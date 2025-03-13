@@ -591,7 +591,7 @@
 
 .features-grid {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
     /* gap: 30px; */
     margin: 70px 0px;
@@ -599,9 +599,7 @@
 
 }
 
-.feature-card {
-    width: 30%;
-}
+
 
 .feature-icon {
     width: 77px;
