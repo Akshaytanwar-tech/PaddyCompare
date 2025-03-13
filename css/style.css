@@ -133,13 +133,13 @@
 
 .banner-in {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 30px
 }
 
 
 .content-text {
-    max-width: 37ch;
+    max-width: 41ch;
     display: flex;
     flex-direction: column;
     row-gap: 20px;
@@ -149,13 +149,13 @@
     font-size: 40px;
     font-weight: 700;
     color: var(--black-heading);
-    letter-spacing: -2px;
+    letter-spacing: -0.32px;
     line-height: 56px;
 
 }
 
 .content p {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
     color: var(--grey-content);
     /* margin: 20px auto; */
